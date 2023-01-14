@@ -30,6 +30,7 @@ Connections between the campus routers are given at figure 0; you will have to
 follow the exact topology.
 
 ● Connectivity between all the hosts needs to be established.
+
 While designing, keep the issue of future expansion/ growth in mind for each of the subnets
 (if required) and preserve spaces. In the physical design, it is a good practice to have a
 server room where all the servers are located in one LAN segment.
